@@ -5,5 +5,5 @@ LA Mobility Hackathon 2019. This is the Front end for project Grid SmartR
  HTML,
  CSS,
  JavaScript,
- Maps using Here Technolgies,
+ Maps using Here Technologies,
  AWS S3 for Hosting and AWS SNS for Notifications
